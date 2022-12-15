@@ -1,0 +1,2 @@
+gamma:1.0
+resourcePacks:["NZ\u0027s Pack.zip"]
